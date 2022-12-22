@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+FiPEX 2023 Universitas Ahmad Dahlan
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Teams :
+1. Gemilang Tirto Ismoyo Santoso
+2. Rafi Ariq 
+3. Ema
