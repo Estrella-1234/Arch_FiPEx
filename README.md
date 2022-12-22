@@ -1,5 +1,5 @@
 
-# FiPEX 2023 
+# FiPEx 2023 
 
 
 Final Project Exhibition (FiPex) merupakan kegiatan tahunan dari program studi Sistem Informasi Universitas Ahmad Dahlan, dimana mahasiswa menampilkan karya yang telah dibuat pada masing-masing mata kuliah di semester ganjil TA 2022/2023.
