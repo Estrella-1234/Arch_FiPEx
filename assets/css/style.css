@@ -313,6 +313,7 @@ h6 {
   left: 0;
   bottom: 0;
   background: #F1A603;
+  opacity: 95%;
   transition: 0.3s;
   z-index: 999;
 }
@@ -328,11 +329,11 @@ h6 {
   position: absolute;
   top: 55px;
   right: 15px;
-  bottom: 15px;
+  /* bottom: 15px; */
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #ffffff;
   overflow-y: auto;
   transition: 0.3s;
 }
