@@ -12,6 +12,6 @@ menggunakan berbagai macam framework, seperti Bootstrap, Tailwind CSS, dll.
 ## Authors
 
 - [Gemilang Tirto Ismoyo Santoso](https://www.github.com/Woolf14)
-- Rafi Ariq Witaqi
-- Ema
+- [Rafi Ariq Witaqi](https://github.com/K0opel)
+- Ema Septian Hakim
 
