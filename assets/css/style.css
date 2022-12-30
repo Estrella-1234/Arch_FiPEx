@@ -351,6 +351,12 @@ h6 {
   color: #F1A603;
 }
 
+.navbar-mobile li:hover,
+.navbar-mobile .active,
+.navbar-mobile li:hover>a {
+  background: rgb(226, 226, 226);
+}
+
 .navbar-mobile .getstarted,
 .navbar-mobile .getstarted:focus {
   margin: 15px;
